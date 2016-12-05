@@ -1,4 +1,4 @@
-# MeArm web-bluetooth
+# mearm-web-bluetooth
 
 Controlling a MeArm using [bluetooth support for the web](https://github.com/WebBluetoothCG/web-bluetooth).
 
@@ -13,8 +13,10 @@ Currently this only works in Chrome 56 or later, with chrome://flags/#enable-exp
   * Will need 4 micro servos.
 * External battery for the servos.
 
-The Arduino sketch can be found at `sketch` folder.
+The Arduino sketch can be found at `arduino` folder.
 
 ## Web part
 
 The web part of the project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+I user this [article](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web) on developers google to figure out the web bluetooth part.
