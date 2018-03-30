@@ -4,6 +4,8 @@ Controlling a MeArm using [bluetooth support for the web](https://github.com/Web
 
 Currently this only works in Chrome 56 or later, with chrome://flags/#enable-experimental-web-platform-features enabled.
 
+Demo video: https://www.youtube.com/watch?v=xLJww8WlX1Q
+
 ## Hardware used
 
 * Arduino uno
